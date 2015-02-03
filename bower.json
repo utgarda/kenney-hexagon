@@ -1,0 +1,24 @@
+{
+  "name": "kenney-hexagon",
+  "version": "1.0.0",
+  "homepage": "https://github.com/utgarda/kenney-hexagon",
+  "authors": [
+    "kenney <mail@kenney.nl>"
+  ],
+  "description": "CCO hexagon tiles from www.kenney.nl",
+  "keywords": [
+    "kenney",
+    "assets",
+    "hex",
+    "hexagon",
+    "tiles",
+    "png"
+  ],
+  "license": "CCO",
+  "ignore": [
+    "preview.png",
+    "sample.png",
+    "README.md",
+    "LICENSE"
+  ]
+}
